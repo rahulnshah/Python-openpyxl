@@ -1,2 +1,2 @@
-# Python
-Python exploration
+# Python openpyxl
+Python openpyxl exploration manipulating xlsx sheets
